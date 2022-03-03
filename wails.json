@@ -1,0 +1,20 @@
+{
+  "name": "cpu_usage",
+  "frontend:build": "yarn build",
+  "frontend:install": "",
+  "frontend:dev": "yarn build",
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "cpu_usage",
+  "OutputType": "",
+  "Platform": "",
+  "Author": {
+    "name": "licong",
+    "email": "licong@qianxin.com"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:34115",
+  "appargs": ""
+}
