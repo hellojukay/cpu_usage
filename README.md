@@ -13,3 +13,4 @@ on http://localhost:34115. Open this in your browser to connect to your applicat
 
 For a production build, use `wails build`.
 
+![demo](./demo.png)
